@@ -1,4 +1,4 @@
-package dynamic.datasource;
+package com.dynamic.datasource;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
