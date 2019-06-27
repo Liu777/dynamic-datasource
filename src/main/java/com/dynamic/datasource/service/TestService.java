@@ -28,9 +28,11 @@ public class TestService {
 
     public List<Map<String, Object>> findTest1() {
 
+        // 不指定，则默认使用数据源1
         return test1Mapper.findAll();
     }
 
+    // 覆盖类上指定的数据源2
     @DataSource(DataSourceEnum.TEST2)
     public List<Map<String, Object>> findTest2() {
 
