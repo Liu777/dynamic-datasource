@@ -1,5 +1,7 @@
 package com.dynamic.datasource.service;
 
+import com.dynamic.datasource.config.DataSource;
+import com.dynamic.datasource.config.DataSourceEnum;
 import com.dynamic.datasource.dao.Test1Mapper;
 import com.dynamic.datasource.dao.Test2Mapper;
 import org.springframework.beans.factory.annotation.Autowired;
