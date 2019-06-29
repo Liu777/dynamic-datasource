@@ -1,6 +1,6 @@
 # dynamic-datasource
 
-🇨🇳简体中文 | 🇺🇸[English](./README-EN.md) | [更新日志](https://gitee.com/Hacker-walker/dynamic-datasource)
+🇨🇳简体中文 | 🇺🇸[English](./README.en.md) | [更新日志](https://gitee.com/Hacker-walker/dynamic-datasource)
 [![author](https://img.shields.io/badge/author-walker-blue.svg)](https://wuxf.cn)
 [![JDK](https://img.shields.io/badge/JDK-1.8-orange.svg)](https://github.com/Liu777/dynamic-datasource)
 [![QQ群](https://img.shields.io/badge/chat-walkerQQ%E7%BE%A4-yellow.svg)](https://jq.qq.com/?_wv=1027&k=5mjexzD)
@@ -12,3 +12,6 @@
 
 ### 使用手册
 ✍使用springboot mybatis aop注解实现多数据源切换,该项目采用aop的模式进行数据源切换，在方法上使用注解的形式！
+
+### 微信公众号:堇夏年华
+![file](https://images.gitee.com/uploads/images/2019/0610/161454_710bf233_2127888.png)
